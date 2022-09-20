@@ -10,9 +10,70 @@
 <br></br>
 <h1 align="center">Hướng dẫn sử dụng phần mềm</h1>
 
-<font color="red">Status: **Not yet implemented**</font>
-
 <!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Các chức năng chính</summary>
+  <ol>
+    <li><a href="#">Chức năng đăng ký</a></li>
+    <li><a href="#">Chức năng đăng nhập</a></li>
+    <li><a href="#">Chức năng đăng xuất</a></li>
+    <li><a href="#">Chức năng thống kê tổng quan</a></li>
+    <li>
+      <a href="#">Chức năng quản lý bộ thẻ</a>
+      <ul>
+        <li><a href="#">1. Tạo bộ thẻ</a></li>
+        <li><a href="#">2. Đổi tên bộ thẻ</a></li>
+        <li><a href="#">3. Xoá bộ thẻ</a></li>
+        <li><a href="#">4. Thống kê chi tiết bộ thẻ</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Chức năng Làm kiểm tra trắc nghiệm</a>
+      <ul>
+        <li><a href="#">Bước 1: Chọn bộ thẻ muốn học</a></li>
+        <li><a href="#">Bước 2: Thiết lập số thẻ và thời gian</a></li>
+        <li><a href="#">Bước 3: Thực hiện bài kiểm và xem đáp án</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Chức năng Học từ</a></li>
+    <li>
+      <a href="#">Chức năng Kích hoạt chế độ nhắc nhở ôn tập</a>
+      <ul>
+        <li><a href="#">Trường hợp 1: Mở kích hoạt</a></li>
+        <li><a href="#">Trường hợp 2: Tắt kích hoạt</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Chức năng Quản lý thẻ học</a>
+      <ul>
+        <li><a href="#">Trường hợp 1: Xem danh sách thẻ học của bộ thẻ và tìm kiếm</a></li>
+        <li><a href="#">Trường hợp 2: Thêm mới, chỉnh sửa, xóa thẻ học</a></li>
+        <li><a href="#">Trường hợp 3: Thêm thẻ từ theo danh sách</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Chức năng Nghe danh sách từ của thẻ học</a>
+      <ul>
+        <li><a href="#">Trường hợp 1: Thiết lập mặc định</a></li>
+        <li><a href="#">Trường hợp 2: Thiết lập số lần muốn lặp lại và đảo thứ tự các thẻ</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Chức năng Xem lịch nhắc nhở ôn tập</a>
+      <ul>
+        <li><a href="#">Trường hợp 1: Mặc định là ngày hiện tại của hệ thống</a></li>
+        <li><a href="#">Trường hợp 2: Chọn ngày</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Chức năng Đặt giờ thông báo</a></li>
+    <li><a href="#">Chức năng Thực hiện nhắc nhở</a></li>
+    <li><a href="#">Chức năng Tải bộ thẻ có sẵn của hệ thống</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+<!-- https://github.com/othneildrew/Best-README-Template#built-with -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -32,12 +93,12 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#Chuc-nang-quan-ly-bo-the">Chức năng quản lý bộ thẻ</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-<! https://github.com/othneildrew/Best-README-Template#built-with >
+
 
 ## `Chức năng đăng ký`
 
