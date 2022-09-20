@@ -4,7 +4,7 @@
 </h3>
 <hr />
 <h3 align="center">
-  ✨ <a href="#">The best preparation for tomorrow is doing your best today</a> ✨
+  ✨ <a href="#">The best preparation for tomorrow is doing your best </a> ✨
 </h3>
 <hr />
 
