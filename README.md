@@ -22,10 +22,10 @@
     <li>
       <a href="#chức-năng-quản-lý-bộ-thẻ">Chức năng quản lý bộ thẻ</a>
       <ul>
-        <li><a href="#feature-one">1. Tạo bộ thẻ</a></li>
-        <li><a href="#chức-năng-quản-lý-bộ-thẻ-two">2. Đổi tên bộ thẻ</a></li>
-        <li><a href="#chức-năng-quản-lý-bộ-thẻ-three">3. Xoá bộ thẻ</a></li>
-        <li><a href="#chức-năng-quản-lý-bộ-thẻ-four">4. Thống kê chi tiết bộ thẻ</a></li>
+        <li>1. Tạo bộ thẻ</li>
+        <li>2. Đổi tên bộ thẻ</li>
+        <li>3. Xoá bộ thẻ</li>
+        <li>4. Thống kê chi tiết bộ thẻ</li>
       </ul>
     </li>
     <li>
@@ -96,7 +96,7 @@
 ## `Chức năng quản lý bộ thẻ`
 
 `1. Tạo bộ thẻ  `
-<a name="#feature-one"></a>
+
 ![image35](https://user-images.githubusercontent.com/22954435/191138512-a485ac8e-eb97-4e34-85c9-fe1783c29b1e.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
