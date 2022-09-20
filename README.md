@@ -22,10 +22,10 @@
     <li>
       <a href="#chức-năng-quản-lý-bộ-thẻ">Chức năng quản lý bộ thẻ</a>
       <ul>
-        <li>1. Tạo bộ thẻ</a></li>
-        <li>2. Đổi tên bộ thẻ</a></li>
-        <li>3. Xoá bộ thẻ</a></li>
-        <li>4. Thống kê chi tiết bộ thẻ</a></li>
+        <li><a href="#chức-năng-quản-lý-bộ-thẻ-one">1. Tạo bộ thẻ</a></li>
+        <li><a href="#chức-năng-quản-lý-bộ-thẻ-two">2. Đổi tên bộ thẻ</a></li>
+        <li><a href="#chức-năng-quản-lý-bộ-thẻ-three">3. Xoá bộ thẻ</a></li>
+        <li><a href="#chức-năng-quản-lý-bộ-thẻ-four">4. Thống kê chi tiết bộ thẻ</a></li>
       </ul>
     </li>
     <li>
@@ -73,75 +73,50 @@
 </details>
 <!-- https://github.com/othneildrew/Best-README-Template#built-with -->
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 ## `Chức năng đăng ký`
 
 ![image31](https://user-images.githubusercontent.com/22954435/191136542-a03ae500-856e-490d-a4c4-954c325bda40.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br></br>
 
 ## `Chức năng đăng nhập`
 
 ![image32](https://user-images.githubusercontent.com/22954435/191137449-c4d22105-7178-43f9-8e10-07eee5800f2a.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br></br>
 
 ## `Chức năng đăng xuất`
 
 ![image33](https://user-images.githubusercontent.com/22954435/191138004-dbb6dd3b-8e59-4ce3-90ea-c4d4c1844066.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng thống kê tổng quan`
 
 ![image34](https://user-images.githubusercontent.com/22954435/191138140-e2fb4743-323e-4e09-92a5-045959e8fcac.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng quản lý bộ thẻ`
-
+<a name="#chức-năng-quản-lý-bộ-thẻ-one"></a>
 `1. Tạo bộ thẻ  `
 
 ![image35](https://user-images.githubusercontent.com/22954435/191138512-a485ac8e-eb97-4e34-85c9-fe1783c29b1e.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="#chức-năng-quản-lý-bộ-thẻ-two"></a>
 `2. Đổi tên bộ thẻ  `
 
 ![image36](https://user-images.githubusercontent.com/22954435/191138919-a6e1d752-f1fc-4eb6-a417-afec9e3c87c3.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="#chức-năng-quản-lý-bộ-thẻ-three"></a>
 `3. Xoá bộ thẻ  `
 
 ![image37](https://user-images.githubusercontent.com/22954435/191142900-d59d7f47-c55c-4783-b4ec-9f536c0d79cf.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="#chức-năng-quản-lý-bộ-thẻ-four"></a>
 `4. Thống kê chi tiết bộ thẻ  `
 
 ![image38](https://user-images.githubusercontent.com/22954435/191145375-b4e353de-00cf-44d7-b9e9-33ce00aaf12f.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng Làm kiểm tra trắc nghiệm`
 
