@@ -13,7 +13,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>🍀 Các chức năng chính 🍀</summary>
+  <summary> Các chức năng chính </summary>
   <ul>
     <li><a href="#chức-năng-đăng-ký">Chức năng đăng ký</a></li>
     <li><a href="#chức-năng-đăng-nhập">Chức năng đăng nhập</a></li>
