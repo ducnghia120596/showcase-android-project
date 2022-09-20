@@ -19,12 +19,12 @@
     <li><a href="#">Chức năng đăng xuất</a></li>
     <li><a href="#">Chức năng thống kê tổng quan</a></li>
     <li>
-      <a href="#">Chức năng quản lý bộ thẻ</a>
+      <a href="#chuc-nang-quan-ly-bo-the">Chức năng quản lý bộ thẻ</a>
       <ul>
-        <li><a href="#">1. Tạo bộ thẻ</a></li>
-        <li><a href="#">2. Đổi tên bộ thẻ</a></li>
-        <li><a href="#">3. Xoá bộ thẻ</a></li>
-        <li><a href="#">4. Thống kê chi tiết bộ thẻ</a></li>
+        <li><a href="#tao-bo-the">1. Tạo bộ thẻ</a></li>
+        <li><a href="#doi-ten-bo-the">2. Đổi tên bộ thẻ</a></li>
+        <li><a href="#xoa-bo-the">3. Xoá bộ thẻ</a></li>
+        <li><a href="#thong-ke-chi-tiet-bo-">4. Thống kê chi tiết bộ thẻ</a></li>
       </ul>
     </li>
     <li>
