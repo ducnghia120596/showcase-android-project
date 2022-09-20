@@ -117,3 +117,55 @@
 `Trường hợp 2: Tắt kích hoạt`
 ![image46](https://user-images.githubusercontent.com/22954435/191151608-f4954218-7b41-4b66-aae5-4b36f4b6b241.png)
 <br></br>
+
+## `Chức năng Quản lý thẻ học`
+
+`Trường hợp 1: Xem danh sách thẻ học của bộ thẻ và tìm kiếm`
+![image47](https://user-images.githubusercontent.com/22954435/191154889-e0978b9e-3ca9-4e7b-80a2-bf4c381a369f.png)
+<br></br>
+
+`Trường hợp 2: Thêm mới, chỉnh sửa, xóa thẻ học`
+![image48](https://user-images.githubusercontent.com/22954435/191155024-2d3528c7-2108-47c9-9f1b-77e31e9f2604.png)
+<br></br>
+
+`Trường hợp 3: Thêm thẻ từ theo danh sách`
+![image49](https://user-images.githubusercontent.com/22954435/191155332-e3dee47c-5dd8-4d31-a99c-e2331d43c527.png)
+<br></br>
+
+## `Chức năng Nghe danh sách từ của thẻ học`
+
+`Trường hợp 1: Thiết lập mặc định`
+![image50](https://user-images.githubusercontent.com/22954435/191155631-cc0a419e-8a4d-4dae-8c73-e18162771786.png)
+<br></br>
+
+`Trường hợp 2: Thiết lập số lần muốn lặp lại và đảo thứ tự các thẻ`
+![image51](https://user-images.githubusercontent.com/22954435/191155701-ccfc92cb-fcb8-44af-a985-2af61bc35af1.png)
+<br></br>
+
+## `Chức năng Xem lịch nhắc nhở ôn tập`
+
+`Trường hợp 1: Mặc định là ngày hiện tại của hệ thống`
+![image52](https://user-images.githubusercontent.com/22954435/191156079-d9dab3e4-a28b-4ba0-935e-796be2971087.png)
+<br></br>
+
+`Trường hợp 2: Chọn ngày`
+![image53](https://user-images.githubusercontent.com/22954435/191156201-5d0ecc55-096a-425f-b749-e57d95d94558.png)
+<br></br>
+
+## `Chức năng Đặt giờ thông báo`
+
+![image54](https://user-images.githubusercontent.com/22954435/191156336-e2ba016b-18b0-402e-ab50-9672b9df11c2.png)
+<br></br>
+
+## `Chức năng Thực hiện nhắc nhở`
+
+![image55](https://user-images.githubusercontent.com/22954435/191156505-dc635f6a-af23-4dcc-88e0-1d0ef6bb9533.png)
+<br></br>
+
+![image56](https://user-images.githubusercontent.com/22954435/191156760-a7eb5359-fc7e-4665-9c62-0d4e76b823d2.png)
+<br></br>
+
+## `Chức năng Tải bộ thẻ có sẵn của hệ thống`
+
+![image57](https://user-images.githubusercontent.com/22954435/191156869-7bc8e685-c3cd-44a3-a77e-d400b6bd55e0.png)
+<br></br>
