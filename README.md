@@ -8,7 +8,7 @@
 <hr />
 
 <br></br>
-<h1 align="center"> Hướng dẫn sử dụng phần mềm</h1>
+<h1 align="center">Hướng dẫn sử dụng phần mềm</h1>
 
 <font color="red">Status: **Not yet implemented**</font>
 
@@ -39,31 +39,27 @@
 </details>
 <! https://github.com/othneildrew/Best-README-Template#built-with >
 
-## Chức năng đăng ký
-<details><summary><b>Chức năng đăng ký</b></summary>
-![image31](https://user-images.githubusercontent.com/22954435/191136542-a03ae500-856e-490d-a4c4-954c325bda40.png)
-<br></br>
-</details>
+## `Chức năng đăng ký`
 
 ![image31](https://user-images.githubusercontent.com/22954435/191136542-a03ae500-856e-490d-a4c4-954c325bda40.png)
 <br></br>
 
-## Chức năng đăng nhập
+## `Chức năng đăng nhập`
 
 ![image32](https://user-images.githubusercontent.com/22954435/191137449-c4d22105-7178-43f9-8e10-07eee5800f2a.png)
 <br></br>
 
-## Chức năng đăng xuất
+## `Chức năng đăng xuất`
 
 ![image33](https://user-images.githubusercontent.com/22954435/191138004-dbb6dd3b-8e59-4ce3-90ea-c4d4c1844066.png)
 <br></br>
 
-## Chức năng thống kê tổng quan
+## `Chức năng thống kê tổng quan`
 
 ![image34](https://user-images.githubusercontent.com/22954435/191138140-e2fb4743-323e-4e09-92a5-045959e8fcac.png)
 <br></br>
 
-## Chức năng quản lý bộ thẻ
+## `Chức năng quản lý bộ thẻ`
 
 `1. Tạo bộ thẻ  `
 
@@ -85,7 +81,7 @@
 ![image38](https://user-images.githubusercontent.com/22954435/191145375-b4e353de-00cf-44d7-b9e9-33ce00aaf12f.png)
 <br></br>
 
-## Chức năng "Làm kiểm tra trắc nghiệm"
+## `Chức năng Làm kiểm tra trắc nghiệm`
 
 `Bước 1: Chọn bộ thẻ muốn học`
 
@@ -95,4 +91,29 @@
 `Bước 2: Thiết lập số thẻ và thời gian`
 
 ![image40](https://user-images.githubusercontent.com/22954435/191147271-d56d1036-e34a-4c47-a9d7-349a604dbe78.png)
+<br></br>
+
+`Bước 3: Thực hiện bài kiểm và xem đáp án`
+
+![image41](https://user-images.githubusercontent.com/22954435/191150848-34f7d332-7f41-42e3-8265-3c3ced057ec6.png)
+<br></br>
+![image42](https://user-images.githubusercontent.com/22954435/191150923-7d934215-14bc-4d56-8c6f-5b761b0ea1a1.png)
+<br></br>
+
+
+## `Chức năng Học từ`
+
+![image43](https://user-images.githubusercontent.com/22954435/191151016-ff4262fc-13c7-4f89-9027-db1d127f0316.png)
+<br></br>
+![image44](https://user-images.githubusercontent.com/22954435/191151113-3b5ff6c6-2aca-4889-8983-aa6146dc6ed9.png)
+<br></br>
+
+## `Chức năng Kích hoạt chế độ nhắc nhở ôn tập`
+
+`Trường hợp 1: Mở kích hoạt `
+![image45](https://user-images.githubusercontent.com/22954435/191151555-cfaf965a-c102-4b66-8852-97e7c85c63de.png)
+<br></br>
+
+`Trường hợp 2: Tắt kích hoạt`
+![image46](https://user-images.githubusercontent.com/22954435/191151608-f4954218-7b41-4b66-aae5-4b36f4b6b241.png)
 <br></br>
