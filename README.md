@@ -4,7 +4,7 @@
 </h3>
 <hr />
 <h3 align="center">
-  ✨ <a href="/">The best preparation for tomorrow is doing your best today</a> ✨
+  ✨ <a href="#">The best preparation for tomorrow is doing your best today</a> ✨
 </h3>
 <hr />
 
@@ -22,7 +22,7 @@
     <li>
       <a href="#chức-năng-quản-lý-bộ-thẻ">Chức năng quản lý bộ thẻ</a>
       <ul>
-        <li><a href="#chức-năng-quản-lý-bộ-thẻ-one">1. Tạo bộ thẻ</a></li>
+        <li><a href="#feature-one">1. Tạo bộ thẻ</a></li>
         <li><a href="#chức-năng-quản-lý-bộ-thẻ-two">2. Đổi tên bộ thẻ</a></li>
         <li><a href="#chức-năng-quản-lý-bộ-thẻ-three">3. Xoá bộ thẻ</a></li>
         <li><a href="#chức-năng-quản-lý-bộ-thẻ-four">4. Thống kê chi tiết bộ thẻ</a></li>
@@ -94,7 +94,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng quản lý bộ thẻ`
-<a name="#chức-năng-quản-lý-bộ-thẻ-one"></a>
+<a name="#feature-one"></a>
 `1. Tạo bộ thẻ  `
 
 ![image35](https://user-images.githubusercontent.com/22954435/191138512-a485ac8e-eb97-4e34-85c9-fe1783c29b1e.png)
