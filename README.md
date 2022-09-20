@@ -13,7 +13,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Các chức năng chính</summary>
+  <summary>🍀 Các chức năng chính</summary>
   <ul>
     <li><a href="#chức-năng-đăng-ký">Chức năng đăng ký</a></li>
     <li><a href="#chức-năng-đăng-nhập">Chức năng đăng nhập</a></li>
@@ -120,19 +120,19 @@
 `Bước 1: Chọn bộ thẻ muốn học`
 
 ![image39](https://user-images.githubusercontent.com/22954435/191147034-cf7a62bc-3852-472f-81bb-5f704ffb3bc1.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 `Bước 2: Thiết lập số thẻ và thời gian`
 
 ![image40](https://user-images.githubusercontent.com/22954435/191147271-d56d1036-e34a-4c47-a9d7-349a604dbe78.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 `Bước 3: Thực hiện bài kiểm và xem đáp án`
 
 ![image41](https://user-images.githubusercontent.com/22954435/191150848-34f7d332-7f41-42e3-8265-3c3ced057ec6.png)
 <br></br>
 ![image42](https://user-images.githubusercontent.com/22954435/191150923-7d934215-14bc-4d56-8c6f-5b761b0ea1a1.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## `Chức năng Học từ`
@@ -140,64 +140,64 @@
 ![image43](https://user-images.githubusercontent.com/22954435/191151016-ff4262fc-13c7-4f89-9027-db1d127f0316.png)
 <br></br>
 ![image44](https://user-images.githubusercontent.com/22954435/191151113-3b5ff6c6-2aca-4889-8983-aa6146dc6ed9.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng Kích hoạt chế độ nhắc nhở ôn tập`
 
 `Trường hợp 1: Mở kích hoạt `
 ![image45](https://user-images.githubusercontent.com/22954435/191151555-cfaf965a-c102-4b66-8852-97e7c85c63de.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 `Trường hợp 2: Tắt kích hoạt`
 ![image46](https://user-images.githubusercontent.com/22954435/191151608-f4954218-7b41-4b66-aae5-4b36f4b6b241.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng Quản lý thẻ học`
 
 `Trường hợp 1: Xem danh sách thẻ học của bộ thẻ và tìm kiếm`
 ![image47](https://user-images.githubusercontent.com/22954435/191154889-e0978b9e-3ca9-4e7b-80a2-bf4c381a369f.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 `Trường hợp 2: Thêm mới, chỉnh sửa, xóa thẻ học`
 ![image48](https://user-images.githubusercontent.com/22954435/191155024-2d3528c7-2108-47c9-9f1b-77e31e9f2604.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 `Trường hợp 3: Thêm thẻ từ theo danh sách`
 ![image49](https://user-images.githubusercontent.com/22954435/191155332-e3dee47c-5dd8-4d31-a99c-e2331d43c527.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng Nghe danh sách từ của thẻ học`
 
 `Trường hợp 1: Thiết lập mặc định`
 ![image50](https://user-images.githubusercontent.com/22954435/191155631-cc0a419e-8a4d-4dae-8c73-e18162771786.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 `Trường hợp 2: Thiết lập số lần muốn lặp lại và đảo thứ tự các thẻ`
 ![image51](https://user-images.githubusercontent.com/22954435/191155701-ccfc92cb-fcb8-44af-a985-2af61bc35af1.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng Xem lịch nhắc nhở ôn tập`
 
 `Trường hợp 1: Mặc định là ngày hiện tại của hệ thống`
 ![image52](https://user-images.githubusercontent.com/22954435/191156079-d9dab3e4-a28b-4ba0-935e-796be2971087.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 `Trường hợp 2: Chọn ngày`
 ![image53](https://user-images.githubusercontent.com/22954435/191156201-5d0ecc55-096a-425f-b749-e57d95d94558.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng Đặt giờ thông báo`
 
 ![image54](https://user-images.githubusercontent.com/22954435/191156336-e2ba016b-18b0-402e-ab50-9672b9df11c2.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng Thực hiện nhắc nhở`
 
 ![image55](https://user-images.githubusercontent.com/22954435/191156505-dc635f6a-af23-4dcc-88e0-1d0ef6bb9533.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ![image56](https://user-images.githubusercontent.com/22954435/191156760-a7eb5359-fc7e-4665-9c62-0d4e76b823d2.png)
-<br></br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng Tải bộ thẻ có sẵn của hệ thống`
 
