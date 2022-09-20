@@ -94,25 +94,22 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## `Chức năng quản lý bộ thẻ`
-<a name="#feature-one"></a>
-`1. Tạo bộ thẻ  `
 
+`1. Tạo bộ thẻ  `
+<a name="#feature-one"></a>
 ![image35](https://user-images.githubusercontent.com/22954435/191138512-a485ac8e-eb97-4e34-85c9-fe1783c29b1e.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="#chức-năng-quản-lý-bộ-thẻ-two"></a>
 `2. Đổi tên bộ thẻ  `
 
 ![image36](https://user-images.githubusercontent.com/22954435/191138919-a6e1d752-f1fc-4eb6-a417-afec9e3c87c3.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="#chức-năng-quản-lý-bộ-thẻ-three"></a>
 `3. Xoá bộ thẻ  `
 
 ![image37](https://user-images.githubusercontent.com/22954435/191142900-d59d7f47-c55c-4783-b4ec-9f536c0d79cf.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="#chức-năng-quản-lý-bộ-thẻ-four"></a>
 `4. Thống kê chi tiết bộ thẻ  `
 
 ![image38](https://user-images.githubusercontent.com/22954435/191145375-b4e353de-00cf-44d7-b9e9-33ce00aaf12f.png)
