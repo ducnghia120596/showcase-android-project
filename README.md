@@ -9,7 +9,7 @@
 <hr />
 
 <br></br>
-<h1 align="center">Hướng dẫn sử dụng phần mềm</h1>
+<h1 align="center">👉↘Hướng dẫn sử dụng phần mềm↙️👈</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details>
