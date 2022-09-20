@@ -21,10 +21,10 @@
     <li>
       <a href="#chức-năng-quản-lý-bộ-thẻ">Chức năng quản lý bộ thẻ</a>
       <ul>
-        <li>1. <a href="#tạo-bộ-thẻ">Tạo bộ thẻ</a></li>
-        <li><a href="#">2. Đổi tên bộ thẻ</a></li>
-        <li><a href="#">3. Xoá bộ thẻ</a></li>
-        <li><a href="#">4. Thống kê chi tiết bộ thẻ</a></li>
+        <li>1. Tạo bộ thẻ</a></li>
+        <li>2. Đổi tên bộ thẻ</a></li>
+        <li>3. Xoá bộ thẻ</a></li>
+        <li>4. Thống kê chi tiết bộ thẻ</a></li>
       </ul>
     </li>
     <li>
@@ -35,20 +35,20 @@
         <li><a href="#">Bước 3: Thực hiện bài kiểm và xem đáp án</a></li>
       </ul>
     </li>
-    <li><a href="#">Chức năng Học từ</a></li>
+    <li><a href="#chức-năng-học-từ">Chức năng Học từ</a></li>
     <li>
-      <a href="#">Chức năng Kích hoạt chế độ nhắc nhở ôn tập</a>
+      <a href="#chức-năng-kích-hoạt-chế-độ-nhắc-nhở-ôn-tập">Chức năng Kích hoạt chế độ nhắc nhở ôn tập</a>
       <ul>
-        <li><a href="#">Trường hợp 1: Mở kích hoạt</a></li>
-        <li><a href="#">Trường hợp 2: Tắt kích hoạt</a></li>
+        <li>Trường hợp 1: Mở kích hoạt</a></li>
+        <li>Trường hợp 2: Tắt kích hoạt</a></li>
       </ul>
     </li>
     <li>
-      <a href="#">Chức năng Quản lý thẻ học</a>
+      <a href="#chức-năng-quảnlý-thẻ-học">Chức năng Quản lý thẻ học</a>
       <ul>
-        <li><a href="#">Trường hợp 1: Xem danh sách thẻ học của bộ thẻ và tìm kiếm</a></li>
-        <li><a href="#">Trường hợp 2: Thêm mới, chỉnh sửa, xóa thẻ học</a></li>
-        <li><a href="#">Trường hợp 3: Thêm thẻ từ theo danh sách</a></li>
+        <li>Trường hợp 1: Xem danh sách thẻ học của bộ thẻ và tìm kiếm</a></li>
+        <li>Trường hợp 2: Thêm mới, chỉnh sửa, xóa thẻ học</a></li>
+        <li>Trường hợp 3: Thêm thẻ từ theo danh sách</a></li>
       </ul>
     </li>
     <li>
