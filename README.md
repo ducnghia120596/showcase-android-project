@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <h3 align="center">
   <img src="https://user-images.githubusercontent.com/22954435/191142225-bac75599-3dd5-4a32-8ca8-3e802417452e.png" alt="Present" width=500 />
 </h3>
@@ -30,9 +31,9 @@
     <li>
       <a href="#chức-năng-làm-kiểm-tra-trắc-nghiệm">Chức năng Làm kiểm tra trắc nghiệm</a>
       <ul>
-        <li>Bước 1: Chọn bộ thẻ muốn học</a></li>
-        <li>Bước 2: Thiết lập số thẻ và thời gian</a></li>
-        <li>Bước 3: Thực hiện bài kiểm và xem đáp án</a></li>
+        <li>Bước 1: Chọn bộ thẻ muốn học</li>
+        <li>Bước 2: Thiết lập số thẻ và thời gian</li>
+        <li>Bước 3: Thực hiện bài kiểm và xem đáp án</li>
       </ul>
     </li>
     <li><a href="#chức-năng-học-từ">Chức năng Học từ</a></li>
@@ -101,11 +102,13 @@
 ## `Chức năng đăng ký`
 
 ![image31](https://user-images.githubusercontent.com/22954435/191136542-a03ae500-856e-490d-a4c4-954c325bda40.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br></br>
 
 ## `Chức năng đăng nhập`
 
 ![image32](https://user-images.githubusercontent.com/22954435/191137449-c4d22105-7178-43f9-8e10-07eee5800f2a.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br></br>
 
 ## `Chức năng đăng xuất`
@@ -227,4 +230,5 @@
 ## `Chức năng Tải bộ thẻ có sẵn của hệ thống`
 
 ![image57](https://user-images.githubusercontent.com/22954435/191156869-7bc8e685-c3cd-44a3-a77e-d400b6bd55e0.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br></br>
