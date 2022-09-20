@@ -14,14 +14,14 @@
 <details>
   <summary>Các chức năng chính</summary>
   <ul>
-    <li><a href="#">Chức năng đăng ký</a></li>
-    <li><a href="#">Chức năng đăng nhập</a></li>
-    <li><a href="#">Chức năng đăng xuất</a></li>
-    <li><a href="#">Chức năng thống kê tổng quan</a></li>
+    <li><a href="#chức-năng-đăng-ký">Chức năng đăng ký</a></li>
+    <li><a href="#chức-năng-đăng-nhập">Chức năng đăng nhập</a></li>
+    <li><a href="#chức-năng-đăng-xuất">Chức năng đăng xuất</a></li>
+    <li><a href="#chức-năng-thống-kê-tổng-quan">Chức năng thống kê tổng quan</a></li>
     <li>
       <a href="#chức-năng-quản-lý-bộ-thẻ">Chức năng quản lý bộ thẻ</a>
       <ul>
-        <li><a href="#">1. Tạo bộ thẻ</a></li>
+        <li><a href="#1.-tạo-bộ-thẻ">1. Tạo bộ thẻ</a></li>
         <li><a href="#">2. Đổi tên bộ thẻ</a></li>
         <li><a href="#">3. Xoá bộ thẻ</a></li>
         <li><a href="#">4. Thống kê chi tiết bộ thẻ</a></li>
