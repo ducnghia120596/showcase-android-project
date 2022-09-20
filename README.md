@@ -21,7 +21,7 @@
     <li>
       <a href="#chức-năng-quản-lý-bộ-thẻ">Chức năng quản lý bộ thẻ</a>
       <ul>
-        <li><a href="#1.-tạo-bộ-thẻ">1. Tạo bộ thẻ</a></li>
+        <li>1. <a href="#tạo-bộ-thẻ">Tạo bộ thẻ</a></li>
         <li><a href="#">2. Đổi tên bộ thẻ</a></li>
         <li><a href="#">3. Xoá bộ thẻ</a></li>
         <li><a href="#">4. Thống kê chi tiết bộ thẻ</a></li>
