@@ -30,9 +30,9 @@
     <li>
       <a href="#chức-năng-làm-kiểm-tra-trắc-nghiệm">Chức năng Làm kiểm tra trắc nghiệm</a>
       <ul>
-        <li><a href="#">Bước 1: Chọn bộ thẻ muốn học</a></li>
-        <li><a href="#">Bước 2: Thiết lập số thẻ và thời gian</a></li>
-        <li><a href="#">Bước 3: Thực hiện bài kiểm và xem đáp án</a></li>
+        <li>Bước 1: Chọn bộ thẻ muốn học</a></li>
+        <li>Bước 2: Thiết lập số thẻ và thời gian</a></li>
+        <li>Bước 3: Thực hiện bài kiểm và xem đáp án</a></li>
       </ul>
     </li>
     <li><a href="#chức-năng-học-từ">Chức năng Học từ</a></li>
@@ -46,30 +46,28 @@
     <li>
       <a href="#chức-năng-quảnlý-thẻ-học">Chức năng Quản lý thẻ học</a>
       <ul>
-        <li>Trường hợp 1: Xem danh sách thẻ học của bộ thẻ và tìm kiếm</a></li>
-        <li>Trường hợp 2: Thêm mới, chỉnh sửa, xóa thẻ học</a></li>
-        <li>Trường hợp 3: Thêm thẻ từ theo danh sách</a></li>
+        <li>Trường hợp 1: Xem danh sách thẻ học của bộ thẻ và tìm kiếm</li>
+        <li>Trường hợp 2: Thêm mới, chỉnh sửa, xóa thẻ học</li>
+        <li>Trường hợp 3: Thêm thẻ từ theo danh sách</li>
       </ul>
     </li>
     <li>
-      <a href="#">Chức năng Nghe danh sách từ của thẻ học</a>
+      <a href="#chức-năng-nghe-danh-sách-từ-của-thẻ-học">Chức năng Nghe danh sách từ của thẻ học</a>
       <ul>
-        <li><a href="#">Trường hợp 1: Thiết lập mặc định</a></li>
-        <li><a href="#">Trường hợp 2: Thiết lập số lần muốn lặp lại và đảo thứ tự các thẻ</a></li>
+        <li>Trường hợp 1: Thiết lập mặc định</li>
+        <li>Trường hợp 2: Thiết lập số lần muốn lặp lại và đảo thứ tự các thẻ</li>
       </ul>
     </li>
     <li>
-      <a href="#">Chức năng Xem lịch nhắc nhở ôn tập</a>
+      <a href="#chức-năng-xem-lịch-nhắc-nhở-ôn-tập">Chức năng Xem lịch nhắc nhở ôn tập</a>
       <ul>
-        <li><a href="#">Trường hợp 1: Mặc định là ngày hiện tại của hệ thống</a></li>
-        <li><a href="#">Trường hợp 2: Chọn ngày</a></li>
+        <li>Trường hợp 1: Mặc định là ngày hiện tại của hệ thống</li>
+        <li>Trường hợp 2: Chọn ngày</li>
       </ul>
     </li>
-    <li><a href="#">Chức năng Đặt giờ thông báo</a></li>
-    <li><a href="#">Chức năng Thực hiện nhắc nhở</a></li>
-    <li><a href="#">Chức năng Tải bộ thẻ có sẵn của hệ thống</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#chức-năng-Đặt-giờ-thông-báo">Chức năng Đặt giờ thông báo</a></li>
+    <li><a href="#chức-năng-thực-hiện-nhắc-nhở">Chức năng Thực hiện nhắc nhở</a></li>
+    <li><a href="#chức-năng-tải-bộ-thẻ-có-sẵn-của-hệ-thống">Chức năng Tải bộ thẻ có sẵn của hệ thống</a></li>
   </ul>
 </details>
 <!-- https://github.com/othneildrew/Best-README-Template#built-with -->
