@@ -13,7 +13,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Các chức năng chính</summary>
-  <ol>
+  <ul>
     <li><a href="#">Chức năng đăng ký</a></li>
     <li><a href="#">Chức năng đăng nhập</a></li>
     <li><a href="#">Chức năng đăng xuất</a></li>
@@ -70,7 +70,7 @@
     <li><a href="#">Chức năng Tải bộ thẻ có sẵn của hệ thống</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+  </ul>
 </details>
 <!-- https://github.com/othneildrew/Best-README-Template#built-with -->
 
